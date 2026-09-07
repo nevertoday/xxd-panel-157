@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 157"
+  short_description: "Archaeological Ink Rubbing"
+  default_prompt: "Use $xxd-panel-157 to transform my photograph using the complete canonical source brief."
