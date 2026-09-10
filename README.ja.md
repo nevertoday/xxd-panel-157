@@ -10,25 +10,17 @@
 
 ## サンプル展示
 
-以下のサンプルはそれぞれ異なる原画像を使い、Panel 157 が一枚ずつ独立した一回の生成で作成しました。AIメタデータは削除済みです。横長は左に実写、右にデザインを置く厳密な50:50、縦長は上に実写、下にデザインを置く厳密な50:50です。
+本项目已发布 8 张实际样片，图片文件位于 `assets/examples/`。
 
-**16:9 横長 · 左右 50:50**
-
-| sample-05 | sample-06 |
-|---|---|
+| sample-05 | sample-07 | sample-09 | sample-11 |
+| --- | --- | --- | --- |
 | ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
+| sample-07 | sample-08 |
 | ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
-
-**3:4 縦長 · 上下 50:50**
-
 | sample-09 | sample-10 |
-|---|---|
 | ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| sample-11 | sample-12 |
 | ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
-
-生成時には原画像に即した短い英語コピーを指定しました。以下は一度だけ生成した結果をそのまま示し、スタイルとモデルの逸脱を確認するためのものです。すべての検収条件を満たす完成例ではありません。
-
-確認された限界：一部は主体が大きく、元の風景を残しすぎています。英語以外の文字、赤い印、未確認の資料風の日付や地名も見られます。これらは生成された視覚要素であり、事実の記録ではありません。墨黒・灰黒の拓本表現と極端な余白も一貫して達成されていません。追加生成は行っていません。
 
 ## 向いている場面と解決する課題
 
