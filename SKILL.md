@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-157
-description: "Create XXD Panel 157 raster artwork from photographs using Chinese archaeological artifact ink rubbing, selectively reconstructed relief-like forms, broken ink transfers and weathered traces, natural paper, a small subject and vast intentional whitespace. Use when the user invokes xxd-panel-157 or requests this style. Supports individual images, isolated directory batches, strict 50:50 comparisons, design-only outputs, and wallpapers."
+description: "XXD Panel 157｜Archaeological Ink Rubbing: compresses the most recognisable subject of a photo into the core form of a stone carving, low relief or ancient ornament and presents it as a Chinese archaeological ink rubbing — broken, uneven black ink with dry-brush gaps, flaking, cracks and weathered patches on warm natural rubbing paper with soft fibres, no ordinary colour or gradients — set small in very large whitespace with a few catalogue-style titles or archive notes. Not a black-and-white filter or line tracing. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-157 or asks for ink rubbing, stone relief rubbing or ancient artifact rubbing from a photo."
 ---
 
 # XXD Panel 157

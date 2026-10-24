@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 157｜Archaeological Ink Rubbing: compresses the most recognisable subject of a photo into the core form of a stone carving, low relief or ancient ornament and presents it as a Chinese archaeological ink rubbing — broken, uneven black ink with dry-brush gaps, flaking, cracks and weathered patches on warm natural rubbing paper with soft fibres, no ordinary colour or gradients — set small in very large whitespace with a few catalogue-style titles or archive notes. Not a black-and-white filter or line tracing. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-157 or asks for ink rubbing, stone relief rubbing or ancient artifact rubbing from a photo.",
+  "short_description": "文物墨拓留白志：把照片主体变成一张残缺斑驳的古代石刻墨拓，安放在大片纸面里",
+  "zh-CN": {
+    "name": "文物墨拓留白志",
+    "tagline": "把照片主角变成一张古代石刻拓片，墨色斑驳残缺，安静地落在大片纸面上。",
+    "look": "照片里最好认的主体被压缩成像石刻、浅浮雕或古代纹饰一样的形态，再像拓片那样印出来：墨色有缺墨、飞白、颗粒、剥蚀和裂纹，轮廓断续、粗细不均，次要细节干脆消失。颜色只有暖白或天然纸色加深墨黑、灰黑，纸面留着纤维和旧拓纸的颗粒。主体很小，四周是大片空纸。旁边可以有少量考古图录式的标题或档案注记。",
+    "traits": [
+      "文物墨拓",
+      "残缺墨迹",
+      "风化浅浮雕",
+      "天然纸色",
+      "超级留白"
+    ],
+    "good": [
+      "轮廓有力、像能刻在石头上的主体：一匹马、一只鸟、一个侧影、一棵老树",
+      "本身就有古意的对象：佛像、石狮、古建筑屋檐、青铜器、瓦当",
+      "想做成文化、展览、博物馆或收藏感海报的照片"
+    ],
+    "poor": [
+      "颜色是重点的照片，墨拓只剩黑和纸色",
+      "需要看清五官神情的人像或细碎的小物件，残缺墨迹会吃掉细节",
+      "想要普通黑白滤镜、干净线稿、矢量描边或彩色插画的需求"
+    ]
+  },
+  "en": {
+    "name": "Archaeological Ink Rubbing",
+    "tagline": "Turns the star of your photo into an ancient stone rubbing, patchy and worn, resting on a wide sheet of paper.",
+    "look": "The most recognisable subject is compressed into the shape of a stone carving, low relief or ancient ornament, then printed the way a rubbing is taken: the ink has missing patches, dry-brush gaps, grain, flaking and cracks, the outline breaks and changes weight, and minor details simply disappear. The only colours are warm white or natural paper and deep black or grey-black ink, with paper fibres and the grain of old rubbing paper. The subject is small and surrounded by bare paper. A few catalogue-style titles or archive notes may sit beside it.",
+    "traits": [
+      "Artifact ink rubbing",
+      "Broken ink",
+      "Weathered relief",
+      "Natural paper",
+      "Vast whitespace"
+    ],
+    "good": [
+      "Strong-outlined subjects that could be carved in stone: a horse, a bird, a profile, an old tree",
+      "Things that already feel ancient: Buddha statues, stone lions, temple eaves, bronzes, roof-tile ends",
+      "Photos for cultural, exhibition, museum or collector-style posters"
+    ],
+    "poor": [
+      "Photos where colour matters, since the rubbing keeps only black and paper tone",
+      "Portraits that need facial expression or small fiddly objects, as the broken ink swallows the detail",
+      "Requests for a plain black-and-white filter, clean line art, vector outlines or colour illustration"
+    ]
+  },
+  "ja": {
+    "name": "文物の墨拓と余白",
+    "tagline": "写真の主役を古代の石刻の拓本にし、まだらで欠けた墨を広い紙面に静かに置きます。",
+    "look": "写真でいちばん目立つ主役を、石刻や浅浮彫、古代の文様のような形にまとめ、拓本を採るように写し取ります。墨には欠け、かすれ、粒子、剥落、ひびがあり、輪郭は途切れて太さも揃わず、細かな部分は思い切って消えます。色は温かみのある白や生成りの紙と、濃い墨の黒、灰黒だけで、紙の繊維や古い拓本紙の粒子が残ります。主役は小さく、まわりは広い紙の余白です。考古図録のようなタイトルや記録風の注記が少し添えられることもあります。",
+    "traits": [
+      "文物の墨拓",
+      "欠けた墨",
+      "風化した浮彫",
+      "生成りの紙",
+      "大きな余白"
+    ],
+    "good": [
+      "石に刻めそうな力強い輪郭の主役：馬、鳥、横顔、老木",
+      "もともと古風な対象：仏像、石獅子、古建築の軒、青銅器、瓦当",
+      "文化、展覧会、博物館、コレクション風のポスターにしたい写真"
+    ],
+    "poor": [
+      "色が大切な写真（拓本には墨と紙の色しか残りません）",
+      "表情を見せたい肖像や細かな小物（欠けた墨が細部を飲み込みます）",
+      "ただのモノクロフィルター、きれいな線画、ベクターの縁取り、カラーイラストを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "유물 먹 탁본과 여백",
+    "tagline": "사진 속 주인공을 얼룩지고 이지러진 옛 석각 탁본으로 바꿔 넓은 종이 위에 조용히 둡니다.",
+    "look": "사진에서 가장 알아보기 쉬운 주인공을 석각이나 얕은 부조, 옛 문양 같은 형태로 줄인 뒤 탁본을 뜨듯 찍어 냅니다. 먹에는 빈 곳, 비백, 입자, 벗겨짐, 갈라짐이 있고, 윤곽은 끊기고 굵기도 고르지 않으며, 자잘한 세부는 과감히 사라집니다. 색은 따뜻한 흰색이나 자연스러운 종이색과 짙은 먹색, 회흑색뿐이며 종이 섬유와 오래된 탁본지의 결이 남습니다. 주인공은 작고 주변은 넓은 빈 종이입니다. 고고 도록 같은 제목이나 기록풍 주석이 조금 곁들여질 수 있습니다.",
+    "traits": [
+      "유물 먹 탁본",
+      "이지러진 먹",
+      "풍화된 부조",
+      "자연 종이색",
+      "아주 넓은 여백"
+    ],
+    "good": [
+      "돌에 새길 수 있을 듯한 힘 있는 윤곽: 말, 새, 옆얼굴, 고목",
+      "원래 옛 정취가 있는 대상: 불상, 돌사자, 옛 건물 처마, 청동기, 와당",
+      "문화, 전시, 박물관, 소장품 느낌의 포스터로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "색이 중요한 사진(탁본에는 먹과 종이색만 남습니다)",
+      "표정을 보여야 하는 인물 사진이나 자잘한 소품(이지러진 먹이 세부를 삼킵니다)",
+      "단순 흑백 필터, 깔끔한 선화, 벡터 윤곽선, 컬러 일러스트를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "طبعات أثرية بالحبر والفراغ",
+    "tagline": "يحوّل بطل صورتك إلى طبعة حبر عن نقش حجري قديم، متآكلة ومتقطعة، على ورقة واسعة.",
+    "look": "يُختزل أوضح عنصر في الصورة إلى هيئة نقش حجري أو نحت بارز خفيف أو زخرفة قديمة، ثم يُطبع كما تُؤخذ طبعات الحبر عن الحجر: في الحبر فجوات وآثار فرشاة جافة وحبيبات وتقشّر وشقوق، والحدود متقطعة ومتفاوتة السماكة، والتفاصيل الثانوية تختفي ببساطة. لا ألوان سوى الأبيض الدافئ أو لون الورق الطبيعي مع حبر أسود عميق أو رمادي داكن، مع ألياف الورق وحبيبات ورق الطبعات القديم. العنصر صغير يحيط به ورق خالٍ. وقد ترافقه عناوين قليلة على طريقة كتالوجات الآثار أو ملاحظات أرشيفية.",
+    "traits": [
+      "طبعة حبر أثرية",
+      "حبر متقطع",
+      "نحت بارز متآكل",
+      "ورق طبيعي",
+      "فراغ واسع جداً"
+    ],
+    "good": [
+      "عناصر قوية الحدود تصلح للنقش على الحجر: حصان، طائر، وجه جانبي، شجرة معمّرة",
+      "أشياء ذات طابع قديم أصلاً: تماثيل بوذا، أسود حجرية، أفاريز المعابد، أوانٍ برونزية، أطراف القرميد",
+      "صور لملصقات ثقافية أو معارض أو متاحف أو بطابع المقتنيات"
+    ],
+    "poor": [
+      "صور يهمّ فيها اللون، إذ لا يبقى إلا الأسود ولون الورق",
+      "صور شخصية تحتاج إلى تعابير الوجه أو أشياء صغيرة دقيقة، إذ يبتلع الحبر المتقطع التفاصيل",
+      "طلب فلتر أبيض وأسود عادي أو رسم خطي نظيف أو حدود متجهية أو رسم ملوّن"
+    ]
+  }
+}

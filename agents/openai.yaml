@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 157"
-  short_description: "Archaeological Ink Rubbing"
-  default_prompt: "Use $xxd-panel-157 to transform my photograph using the complete canonical source brief."
+  short_description: "文物墨拓留白志：把照片主体变成一张残缺斑驳的古代石刻墨拓，安放在大片纸面里"
+  default_prompt: "Use $xxd-panel-157 to turn my photo into Archaeological Ink Rubbing artwork."
